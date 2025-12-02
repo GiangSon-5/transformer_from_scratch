@@ -1,0 +1,2 @@
+# Đặt dòng kết thúc LF cho file notebook ipynb
+*.ipynb text eol=lf
