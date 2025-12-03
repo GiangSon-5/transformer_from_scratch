@@ -7,3 +7,4 @@ from .encoder import Encoder
 from .decoder_layer import DecoderLayer
 from .decoder import Decoder
 from .transformer import Transformer
+from .my_vocab import build_vocab_from_iterator, Vocab
